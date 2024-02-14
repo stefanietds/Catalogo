@@ -1,0 +1,14 @@
+C:\Users\stefa\RiderProjects\Catalogo\Catalogo.Domain\bin\Debug\net8.0\Catalogo.Domain.deps.json
+C:\Users\stefa\RiderProjects\Catalogo\Catalogo.Domain\bin\Debug\net8.0\Catalogo.Domain.dll
+C:\Users\stefa\RiderProjects\Catalogo\Catalogo.Domain\bin\Debug\net8.0\Catalogo.Domain.pdb
+C:\Users\stefa\RiderProjects\Catalogo\Catalogo.Domain\obj\Debug\net8.0\Catalogo.Domain.csproj.AssemblyReference.cache
+C:\Users\stefa\RiderProjects\Catalogo\Catalogo.Domain\obj\Debug\net8.0\Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\RiderProjects\Catalogo\Catalogo.Domain\obj\Debug\net8.0\Catalogo.Domain.AssemblyInfoInputs.cache
+C:\Users\stefa\RiderProjects\Catalogo\Catalogo.Domain\obj\Debug\net8.0\Catalogo.Domain.AssemblyInfo.cs
+C:\Users\stefa\RiderProjects\Catalogo\Catalogo.Domain\obj\Debug\net8.0\Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\stefa\RiderProjects\Catalogo\Catalogo.Domain\obj\Debug\net8.0\Catalogo.Domain.dll
+C:\Users\stefa\RiderProjects\Catalogo\Catalogo.Domain\obj\Debug\net8.0\refint\Catalogo.Domain.dll
+C:\Users\stefa\RiderProjects\Catalogo\Catalogo.Domain\obj\Debug\net8.0\Catalogo.Domain.pdb
+C:\Users\stefa\RiderProjects\Catalogo\Catalogo.Domain\obj\Debug\net8.0\ref\Catalogo.Domain.dll
+C:\Users\stefa\RiderProjects\Catalogo\Catalogo.Domain\bin\Debug\net8.0\Catalogo.Domain.runtimeconfig.json
+C:\Users\stefa\RiderProjects\Catalogo\Catalogo.Domain\obj\Debug\net8.0\Catalogo.Domain.genruntimeconfig.cache
